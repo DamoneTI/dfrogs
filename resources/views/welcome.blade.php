@@ -12,9 +12,6 @@
 
         <!-- Styles -->
         <style>
-            html {
-                background: url("/images/dfrogsbg.jpg");
-            }
             html, body {
                 /*background-color: #fff;*/
                 /*color: #636b6f;*/
